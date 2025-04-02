@@ -5,7 +5,7 @@ The **Movie Recommender System** is a content-based recommendation system that s
 
 ## 🚀 Features
 - Suggests movies based on similarity to a selected movie
-- Uses **TF-IDF Vectorization** and **cosine similarity** for recommendations
+- Uses **bag-of-words Vectorization** and **cosine similarity** for recommendations
 - Interactive **Streamlit** web app for easy usage
 - Lightweight and fast movie recommendations
 
